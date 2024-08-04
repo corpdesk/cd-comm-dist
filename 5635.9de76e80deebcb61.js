@@ -1,0 +1,1 @@
+(self.webpackChunkcd_comm=self.webpackChunkcd_comm||[]).push([[5635],{5635:(f,s,e)=>{e.r(s),e.d(s,{TranslateHttpLoader:()=>i});class i{http;prefix;suffix;constructor(t,a="/assets/i18n/",h=".json"){this.http=t,this.prefix=a,this.suffix=h}getTranslation(t){return this.http.get(`${this.prefix}${t}${this.suffix}`)}}}}]);
